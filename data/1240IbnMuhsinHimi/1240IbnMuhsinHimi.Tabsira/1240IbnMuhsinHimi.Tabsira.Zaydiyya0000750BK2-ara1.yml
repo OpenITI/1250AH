@@ -1,14 +1,18 @@
-00#VERS#CLENGTH##: 50408
-00#VERS#LENGTH###: 11995
-00#VERS#URI######: 1240IbnMuhsinHimi.Tabsira.Zaydiyya0000750BK2-ara1
+00#VERS#CLENGTH##: 6064081
+00#VERS#LENGTH###: 1493815
+00#VERS#URI######: 1240IbnMuhsinHimi.Tabsira.Zaydiyya0000570BK2-ara1
 80#VERS#BASED####: permalink, permalink, permalink
 80#VERS#COLLATED#: permalink, permalink, permalink
 80#VERS#LINKS####: all@id, vol1@id, vol2@id, vol3@id, volX@id
-90#VERS#ANNOTATOR: the name of the annotator (latin characters; please
-    use consistently)
-90#VERS#COMMENT##: a free running comment here; you can add as many
-    lines as you see fit; the main goal of this comment section is to have a
-    place to record valuable information, which is difficult to formalize
-    into the above given categories.
+90#VERS#ANNOTATOR: PV
+90#VERS#COMMENT##: Zaydiyya0000570BK1 contained two related texts:
+    * 0877IbnMiftah.SharhAzhar
+    * 1240IbnMuhsinHimi.Tabsira
+    Additionally, the edition contains ḥawāshī in the footnotes, 
+    which, according to the title page,
+    came from a manuscript (dated 1207 AH) that was copied (including the ḥawāshī) 
+    from a manuscript of and read to Shaykh al-Islām al-qāḍī al-ʿallāma 
+    Muḥammad b. ʿAlī al-Shawkānī(1250Shawkani.HawashiCalaSharhAzhar)
+    PV split the text file into its constituent parts.
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
