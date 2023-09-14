@@ -1,20 +1,16 @@
 ######OpenITI#
 
-
-{
-    "BookURI": "1243NiqulaTurki.TamallukFaransawiyyaAqtarMisriyya.Hindawi42506202",
-    "BookCats": "history",
-    "BookID": "42506202",
-    "BookTitle": "ذكر تملك جمهور الفرنساوية الأقطار المصرية والبلاد الشامية",
-    "AuthorID": "92424283",
-    "AuthorNam": "نقولا التركي",
-    "EditorID": "None",
-    "EditorNam": "None",
-    "TranslID": "None",
-    "TranslNam": "None",
-    "BookRel": "None"
-}
-
+#META# URI: 1243NiqulaTurki.TamallukFaransawiyyaAqtarMisriyya.Hindawi42506202
+#META# Tags: history
+#META# ID: 42506202
+#META# Title: ذكر تملك جمهور الفرنساوية الأقطار المصرية والبلاد الشامية
+#META# AuthorID: 92424283
+#META# Author: نقولا التركي
+#META# EditorID: None
+#META# Editor: None
+#META# TranslatorID: None
+#META# Translator: None
+#META# Related_books: None
 
 #META#Header#End#
 
