@@ -1,9 +1,9 @@
-00#VERS#CLENGTH##: 50164
-00#VERS#LENGTH###: 11957
+00#VERS#CLENGTH##: 50040
+00#VERS#LENGTH###: 11931
 00#VERS#URI######: 1240IbnMuhsinHimi.Tabsira.Shia000814VolsBK3-ara1
 80#VERS#BASED####: NOT_FOUND
 80#VERS#COLLATED#: NOT_FOUND
-80#VERS#LINKS####: 
+80#VERS#LINKS####:
     http://www.zaidiah.com/sites/default/files/articles_files/_lzhr_-j1.pdf
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: Shia000814Vols is a digitization of (a pirated edition of?)
@@ -25,6 +25,7 @@
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
     Link to the text file as it was before it was cleaned:
-    https://raw.githubusercontent.com/OpenITI/1250AH/pre-clean/data/1240IbnMuhsinHimi/1240IbnMuhsinHimi.Tabsira/1240IbnMuhsinHimi.Tabsira.Shia000814VolsBK3-ara1
+    https://raw.githubusercontent.com/OpenITI/1250AH/pre-
+    clean/data/1240IbnMuhsinHimi/1240IbnMuhsinHimi.Tabsira/1240IbnMuhsinHimi.Tabsira.Shia000814VolsBK3-ara1
 90#VERS#DATE#####: 2021-02-22
 90#VERS#ISSUES###: NO_MAJOR_ISSUES, PRIMARY_VERSION, CLEANED_VERSION
